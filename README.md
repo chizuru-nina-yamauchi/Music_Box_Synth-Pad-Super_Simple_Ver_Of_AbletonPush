@@ -37,3 +37,9 @@ Audio Play, Stop and Pause Function
 https://github.com/chizuru-nina-yamauchi/Simple_Java_Sound_Audio_Player
 I made a simple console based audio player with Java(Bro Code's YouTube tutorial: https://www.youtube.com/watch?v=SyZQVJiARTQ). 
 Probably we could use and modify this function for backend to build our project to play and pause the audio files?
+
+##### Super Advanced Hardware version
+https://www.youtube.com/watch?v=6pXqZ75m8PM
+
+(Just to imagine about the project)
+
