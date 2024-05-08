@@ -42,8 +42,9 @@ Vue.js: https://vuejs.org/guide/introduction
 - **WebAssembly:** https://webassembly.org/
 - **MIDI.js library (for MIDI integration):** https://github.com/mudcube/MIDI.js/
 
-- 
-- Building such a complex app requires significant time and skill. Here are some alternative approaches if this seems overwhelming:
+
+
+Building such a complex app requires significant time and skill. Here are some alternative approaches if this seems overwhelming:
 
 - **Start with a simpler music creation web app:** Focus on core functionalities like sample playback, sequencing, and basic effects processing. This can be a great learning experience and build a foundation for more complex features later.
 - **Contribute to open-source music web apps:** Explore existing open-source projects like BeepBox or Seq-Sketch: https://www.beepbox.co/3_0/ https://www.sketch.com/. Contributing to these projects allows you to learn from experienced developers and gain experience working on a real-world music creation tool.
